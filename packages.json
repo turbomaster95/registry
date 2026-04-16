@@ -2,8 +2,8 @@
   {
     "name": "prile",
     "version": "0.1.0",
-    "description": "A high-performance file indexer for Fusion OS.",
-    "url": "https://git.symlinx.net/cf",
+    "description": "Prints files",
+    "url": "https://git.symlinx.net/prile",
     "license": "MIT"
   }
 ]
