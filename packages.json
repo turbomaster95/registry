@@ -1,9 +1,52 @@
 [
   {
-    "name": "prile",
+    "name": "AIC-lib",
+    "version": "1.0.0",
+    "description": "High-performance C library for AIC components",
+    "url": "https://github.com/turbomaster95/AIC-lib",
+    "license": "MIT"
+  },
+  {
+    "name": "sane.tools",
     "version": "0.1.0",
-    "description": "Prints files",
-    "url": "https://git.symlinx.net/prile",
+    "description": "A collection of simple, build-system agnostic utilities",
+    "url": "https://github.com/turbomaster95/sane.tools",
+    "license": "MIT"
+  },
+  {
+    "name": "sl",
+    "version": "5.02",
+    "description": "Steam Locomotive runs across your terminal (C/Make)",
+    "url": "https://github.com/mtoyoda/sl",
+    "license": "Custom"
+  },
+  {
+    "name": "fetch.sh",
+    "version": "1.0.0",
+    "description": "A simple, tiny system info tool (Shell)",
+    "url": "https://github.com/dylanaraps/pfetch",
+    "license": "MIT"
+  },
+  {
+    "name": "dust",
+    "version": "0.8.0",
+    "description": "A more intuitive version of 'du' in rust (Rust/Cargo)",
+    "url": "https://github.com/bootandy/dust",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "jq",
+    "version": "1.7",
+    "description": "Lightweight and flexible command-line JSON processor (C/Autotools)",
+    "url": "https://github.com/jqlang/jq",
+    "license": "MIT"
+  },
+  {
+    "name": "micro",
+    "version": "2.0.13",
+    "description": "Modern and intuitive terminal-based text editor (Go)",
+    "url": "https://github.com/zyedidia/micro",
     "license": "MIT"
   }
 ]
+
