@@ -1,5 +1,12 @@
 [
   {
+    "name": "ins",
+    "version": "0.2.0",
+    "description": "A lightweight, build system agnostic, package manager.",
+    "url": "https://github.com/turbomaster95/ins",
+    "license": "MIT"
+  },
+  {
     "name": "AIC-lib",
     "version": "1.0.0",
     "description": "High-performance C library for AIC components",
