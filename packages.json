@@ -4,6 +4,7 @@
     "version": "0.2.0",
     "description": "A lightweight, build system agnostic, package manager.",
     "url": "https://github.com/turbomaster95/ins",
+    "dependencies": ["sane.tools/mk"]
     "license": "MIT"
   },
   {
